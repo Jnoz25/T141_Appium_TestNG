@@ -1,4 +1,4 @@
-package day1;
+
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
@@ -40,7 +40,7 @@ public class denemeTest {
         UiAutomator2 isletim sistemi 6.0 dan buyuk isletim sistemleri icin calisan otomasyon
         UiAutomator ise 6.0 ya da 6 dan kucuk isletim sistemleri icin calisan otomasyon
          */
-        cap.setCapability(MobileCapabilityType.APP,"C:\\Users\\ahmet\\IdeaProjects\\Appium_T_141\\Apps\\Calculator_8.4 (503542421)_Apkpure (3).apk");
+        //cap.setCapability(MobileCapabilityType.APP,"C:\\Users\\ahmet\\IdeaProjects\\Appium_T_141\\Apps\\Calculator_8.4 (503542421)_Apkpure (3).apk");
         /*
         App capability bir uygulama eger yuklu degilse uygulamayi cihaza yuklemek icin kullanilir
         Eger uygulama yukluyse ve tekrardan test calistirilirsa App capability uygulama yuklu mu diye kontrol eder
